@@ -1,0 +1,16 @@
+/* Stylesheet for the ajax login */
+
+#ajax-login-form-container
+{
+	border: 1px solid green;
+	width : 250px;
+	padding : 10px;
+}
+
+
+#ajax-login-spinner
+{
+	padding-left : 80px;
+	display : none;
+}
+
